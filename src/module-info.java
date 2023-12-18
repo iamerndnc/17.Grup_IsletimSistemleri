@@ -2,8 +2,7 @@
  * 
  */
 /**
- * @author LENOVO
- *
+ * 
  */
-module OS_Project {
+module OS_Proje {
 }
