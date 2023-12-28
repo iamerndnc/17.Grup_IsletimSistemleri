@@ -10,4 +10,4 @@ Simay Ünal 1/A B211210086
 
 Abdulsamed Akgün 1/A B201210020
 
-Musa Sinan Alemdar 1/A B211210066
+Musa Sinan Alemdar 1/B B211210066
